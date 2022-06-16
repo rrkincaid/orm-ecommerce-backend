@@ -7,8 +7,7 @@ Module 13 HW | Object-Relational Mapping (ORM) Challenge: E-commerce Back End
 3. [Acceptance Criteria](#acceptance-criteria)
 4. [Mock-Up](#mock-up)
 5. [Github Repository](#github-repository)
-6. [Deployed Heroku](#deployed-heroku)
-7. [Getting Started](#getting-started)
+6. [Getting Started](#getting-started)
 
 ## Description
 
@@ -54,11 +53,11 @@ https://rrkincaid.github.io/orm-ecommerce-backend/ &&
 
 https://github.com/rrkincaid/orm-ecommerce-backend
 
-## Deployed Heroku Site
+<!-- ## Deployed Heroku Site
 
 https://aqueous-lowlands-41313.herokuapp.com/ |
 
-https://git.heroku.com/aqueous-lowlands-41313.git
+https://git.heroku.com/aqueous-lowlands-41313.git -->
 
 ## Getting Started
 
