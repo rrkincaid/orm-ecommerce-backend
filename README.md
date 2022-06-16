@@ -56,6 +56,10 @@ https://github.com/rrkincaid/orm-ecommerce-backend
 
 ## Deployed Heroku Site
 
+https://aqueous-lowlands-41313.herokuapp.com/ |
+
+https://git.heroku.com/aqueous-lowlands-41313.git
+
 ## Getting Started
 
 This Challenge will require a video submission. Refer to the [Fullstack Blog Video Submission Guide](https://coding-boot-camp.github.io/full-stack/computer-literacy/video-submission-guide) for additional guidance on creating a video.
