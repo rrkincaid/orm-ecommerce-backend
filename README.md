@@ -47,6 +47,8 @@ THEN I am able to successfully create, update, and delete data in my database
 
 The following animation demonstrates the application functionality:
 
+https://drive.google.com/file/d/1Facf6q-rzj3Q8crqBgkSssqHNPQ883Hc/view
+
 ## Github Repository
 
 https://rrkincaid.github.io/orm-ecommerce-backend/ &&
